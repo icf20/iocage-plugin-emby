@@ -1,7 +1,7 @@
 {
   "name": "emby-server",
   "release": "11.2-RELEASE",
-  "artifact": "git@github.com:icf20/iocage-plugin-emby.git",
+  "artifact": "https://github.com:icf20/iocage-plugin-emby.git",
   "pkgs": [
     "lang/mono",
     "multimedia/libass",
